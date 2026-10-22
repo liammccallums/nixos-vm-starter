@@ -1,0 +1,10 @@
+# Nix build output symlink
+/result
+
+# Persistent data created by the QEMU VM runner
+*.qcow2
+
+# Local editor files
+*.swp
+*~
+result
