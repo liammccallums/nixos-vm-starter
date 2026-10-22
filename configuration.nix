@@ -18,6 +18,7 @@
     python3
     curl
     htop
+    tree
   ];
 
   # A tiny service to verify that our declarative configuration works.
